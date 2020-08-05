@@ -1,4 +1,6 @@
-# unsupervised_counting
-Code and Resources for Unsupervised Domain Adaptation for Traffic Density Estimation and Counting submitted at ICPR 2020.
+# UDA for Traffic Density Estimation and Counting
+Code and Resources for the traffic density estimation method from "Unsupervised Domain Adaptation for Traffic Density Estimation and Counting," submitted at ICPR 2020.
 
-COMING SOON...
+![Alt text](images/architecture.png?raw=true "Title")
+
+Further instructions and code are coming soon...
